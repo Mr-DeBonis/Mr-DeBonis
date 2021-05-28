@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-DeBonis
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on **Astronomy and Astro-engineering related projects**
 - 📫 How to reach me: on my personal e-mail (ignacio.debonis7 (at) gmail.com)
 
 <!---
